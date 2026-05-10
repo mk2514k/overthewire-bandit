@@ -1,4 +1,4 @@
-# OverTheWire-Bandit (Write-ups_
+# OverTheWire-Bandit (Write-ups)
 
 **Platform:** [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)  
 **Purpose:** Bandit is a beginner-friendly wargame designed to teach the Linux command line through hands-on terminal puzzles. Each level presents a real problem — no multiple choice, no theory — just you, a terminal, and a challenge to solve.
